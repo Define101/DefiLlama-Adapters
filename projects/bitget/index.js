@@ -7,7 +7,8 @@ const config = {
         '0x0639556F03714A74a5fEEaF5736a4A64fF70D206',
         '0x149ded7438caf5e5bfdc507a6c25436214d445e1',
         '0x3a7d1a8c3a8dc9d48a68e628432198a2ead4917c',
-        '0x97b9d2102a9a65a26e1ee82d59e42d1b73b68689'
+        '0x97b9d2102a9a65a26e1ee82d59e42d1b73b68689',
+        '0x1AB4973a48dc892Cd9971ECE8e01DcC7688f8F23'
     ],
   },
   ethereum: {
@@ -43,6 +44,8 @@ const config = {
         '0xf207b2f9f9417fc73cad069f7aa5ae1c6a5b428d', // add on 27/05/2024
         '0x4d216d2682f3997f6c19420beee4530d08d0ea5f', // add on 27/05/2024
         '0xdbe46a02322e636b92296954637e1d7db9d5ed26', // add on 27/05/2024
+        '0xD509fF5d6E530401B53Cc7d3B80607824D85Ff60', // add on 06/12/2024
+        '0xa700c091687afbfada6b84b5e02a5e672ee35597', // add on 06/12/2024
     ]
   },
   tron: {
@@ -55,13 +58,20 @@ const config = {
         'TGZ959FTLRk8droUqDNgLxML1X9mEVej8q',
         'TYiQTHtgLo6KX6hYgbKLJsTbWK5hu9X5MG',
         'TZHW3PJe6VoyV8NWAaeukqWNRe3bVU7u8n',
-        'TBM2FK4KBEEsMVYjm4WAW2Q8Es2NKdmUB8', //add on 12/01/2024
-        'TCvfZC9h6fFXnF7KbHPgY4jgfen93VkfVW', //add on 12/01/2024
-        'TGp7SNzjrctsWNwaFFN2PNTh3b1Kgxdtib', //add on 12/01/2024
+        'TBM2FK4KBEEsMVYjm4WAW2Q8Es2NKdmUB8', // add on 12/01/2024
+        'TCvfZC9h6fFXnF7KbHPgY4jgfen93VkfVW', // add on 12/01/2024
+        'TGp7SNzjrctsWNwaFFN2PNTh3b1Kgxdtib', // add on 12/01/2024
         'TBpo1Sh7vKCLrfxocZHd8CA5wc2R75kSJM', // add on 27/05/2024
         'TMauqkA78pfysSTn8jD1dvEUkjme2gEEdn', // add on 27/05/2024
         'TKPqvBMU2v23RyjjViKvp16kiHPx7FnrHQ', // add on 27/05/2024
         'TVSdtELybCCa9DPDH15CMAPjeRcENAmDJZ', // add on 27/05/2024
+        'TUktrKwLLGGjks6DoN1zGta8muskbd9tnk', // add on 06/12/2024
+        'TYPUgo9ZtYk34XgBHbCHJCaoYZ5RejhhVD',
+        'TQQ29P8gw2Tp8XeYKC8vasQmJ7rvHGFhiG',
+        'TKCFasXqJw3ezQiF1qYWYd78Edfb2NvpBV',
+        'TFfNrnZzHVMQ7DsHLvcTyvZheqabG4KW4W',
+        'TKfMrRSwhuLoTHcziSeNEAdSjaTe2677md',
+        'TJ7hhYhVhaxNx6BPyq7yFpqZrQULL3JSdb',
     ]
   },
   bitcoin: {
@@ -102,7 +112,8 @@ const config = {
     owners: [
         '0x0639556F03714A74a5fEEaF5736a4A64fF70D206',
         '0x5bdf85216ec1e38d6458c870992a69e38e03f7ef',
-        '0x97b9d2102a9a65a26e1ee82d59e42d1b73b68689'
+        '0x97b9d2102a9a65a26e1ee82d59e42d1b73b68689',
+        '0x1AB4973a48dc892Cd9971ECE8e01DcC7688f8F23'
     ]
   },
   ripple: {
