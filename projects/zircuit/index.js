@@ -8,7 +8,6 @@ const config = {
       '0xbf5495Efe5DB9ce00f80364C8B423567e58d2110',
     ]
   },
-  zircuit: { factory: '0x7d8311839eB44Dd5194abd2dd3998722455A24E0', fromBlock: 2427557, },
 }
 
 Object.keys(config).forEach(chain => {
